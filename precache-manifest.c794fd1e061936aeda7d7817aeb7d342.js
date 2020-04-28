@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6eea07a2c8668547190c454f0fb4bbf5",
+    "revision": "85922a27c91bee44342c9bff29c7a7f2",
     "url": "/Redux_Kanban_Web/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Redux_Kanban_Web/static/js/2.505a5f10.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dae0dc48b3d12b6a7841",
-    "url": "/Redux_Kanban_Web/static/js/main.ed848e0e.chunk.js"
+    "revision": "e9ca7486c194091bee1b",
+    "url": "/Redux_Kanban_Web/static/js/main.b3617973.chunk.js"
   },
   {
     "revision": "efeebdc2f9ffdccc6bc1",
