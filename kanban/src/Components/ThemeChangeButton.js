@@ -6,7 +6,7 @@ import { ReactComponent as SunIcon } from "assets/Icons/sun.svg";
 
 const ButtonContainer = styled.button`
     position: fixed;
-    top: 100px;
+    top: 130px;
     right: 200px;
     background: ${({ theme }) => theme.gradient};
     border: 2px solid ${({ theme }) => theme.toggleBorder};

@@ -25,7 +25,7 @@ const KanbanTitleText = styled.div`
     text-align: center;
     margin-top: 100px;
     margin-bottom: 10px;
-    font-size: 52px;
+    font-size: 64px;
     font-weight: bold;
     font-family: "Abel", sans-serif;
     text-shadow: 4px 4px 1px gray;
