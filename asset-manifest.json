@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/Redux_Kanban_Web/static/js/main.00cc6571.chunk.js",
+    "main.js.map": "/Redux_Kanban_Web/static/js/main.00cc6571.chunk.js.map",
+    "runtime-main.js": "/Redux_Kanban_Web/static/js/runtime-main.aba4305d.js",
+    "runtime-main.js.map": "/Redux_Kanban_Web/static/js/runtime-main.aba4305d.js.map",
+    "static/js/2.f318f619.chunk.js": "/Redux_Kanban_Web/static/js/2.f318f619.chunk.js",
+    "static/js/2.f318f619.chunk.js.map": "/Redux_Kanban_Web/static/js/2.f318f619.chunk.js.map",
+    "index.html": "/Redux_Kanban_Web/index.html",
+    "precache-manifest.3d5a1cb6da48bf95e852865a181d7223.js": "/Redux_Kanban_Web/precache-manifest.3d5a1cb6da48bf95e852865a181d7223.js",
+    "service-worker.js": "/Redux_Kanban_Web/service-worker.js",
+    "static/js/2.f318f619.chunk.js.LICENSE.txt": "/Redux_Kanban_Web/static/js/2.f318f619.chunk.js.LICENSE.txt",
+    "static/media/moon.89799566.svg": "/Redux_Kanban_Web/static/media/moon.89799566.svg",
+    "static/media/sun.fbbe405e.svg": "/Redux_Kanban_Web/static/media/sun.fbbe405e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aba4305d.js",
+    "static/js/2.f318f619.chunk.js",
+    "static/js/main.00cc6571.chunk.js"
+  ]
+}
