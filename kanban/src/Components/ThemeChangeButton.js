@@ -6,7 +6,7 @@ import { ReactComponent as SunIcon } from "assets/Icons/sun.svg";
 
 const ButtonContainer = styled.button`
     position: fixed;
-    top: 130px;
+    top: 100px;
     right: 200px;
     background: ${({ theme }) => theme.gradient};
     border: 2px solid ${({ theme }) => theme.toggleBorder};
@@ -31,12 +31,12 @@ const ButtonContainer = styled.button`
         }
     }
     @media (min-width: 320px) and (max-width: 480px) {
-        width: 3.5rem;
+        width: 3rem;
         height: 1.7rem;
         border-radius: 20px;
         padding: 0.2rem;
-        top: 25px;
-        right: 25px;
+        top: 20px;
+        right: 15px;
         svg {
             width: 1rem;
         }
